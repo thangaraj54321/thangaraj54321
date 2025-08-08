@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <br> &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;! </h2>
-  <img src="https://imgur.com/cJR7kfn.gif" width="250px">
+  <img src="https: width="250px">
   <p>
     You have finally discovered my GitHub profile. <br>
     I'm a Smart Contract and Web2 Developer with 2+ years of experience in each field, driven by a passion for blockchain technology. <br>
@@ -54,7 +54,7 @@
 <table align="center" style="background-color: #E5E7EB; padding: 10px; border-radius: 8px;">
   <tr>
     <td align="center" style="padding: 10px;">
-      <a href="https://www.linkedin.com/in/emmanuelldev" target="_blank">
+      <a href="https://www.linkedin.com/in/thagaraji" target="_blank">
         <img src="https://img.icons8.com/?id=61956&format=png" height="45"/>
       </a>
       <br>LinkedIn
@@ -66,13 +66,13 @@
       <br>Discord
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://x.com/EmmanuellDev" target="_blank">
+      <a href="https://x.com/thangaraji" target="_blank">
         <img src="https://img.icons8.com/?id=fJp7hepMryiw&format=png" height="45"/>
       </a>
       <br>Twitter
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://www.snapchat.com/add/emmanuel.rsk" target="_blank">
+      <a href="https://www.snapchat.com/add/thangaraji.rsk" target="_blank">
         <img src="https://img.icons8.com/?id=23029&format=png" height="45"/>
       </a>
       <br>Snapchat
